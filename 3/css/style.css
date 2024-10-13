@@ -10,3 +10,12 @@
     box-shadow: 0px 2px 4px 0px #0000000E;
     width: 100%;
 }
+  body.light {
+    background-color: #f7f7f7;
+    color: #000;
+  }
+  body.dark {
+    background-color: #333;
+    color: #fff;
+  }
+  
